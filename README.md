@@ -1,1 +1,2 @@
-this is my first REAME
+# Git 
+Learning the basics of Git
